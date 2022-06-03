@@ -1,0 +1,6 @@
+ 
+[NAME=Xof]Hey listen! Use [E] to go through dialogues. You can move left with [A], and right with [D], use [Space] to jump. To go between physical world and spirit world use [Q].
+
+When you are in spirit world you will be able to use spirit powers. For now you can use my dashing power by pressing [1].
+
+Lets start our journey on top of mount Fuji where the gate to the spirit village is.

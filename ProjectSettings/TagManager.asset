@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hazard
+  - UnactivePlayer
+  - Enemy
+  - UnactiveCamera
+  - Coin
+  - Health
+  - Death
+  - RespawnSpirit
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Hazard
+  - Light
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Faraway
+    uniqueID: 1617584017
+    locked: 0
+  - name: Background
+    uniqueID: 605929669
+    locked: 0
+  - name: Terrain
+    uniqueID: 2471158621
+    locked: 0
+  - name: Forground
+    uniqueID: 4118897525
+    locked: 0
+  - name: Gameplay
+    uniqueID: 984605223
+    locked: 0
